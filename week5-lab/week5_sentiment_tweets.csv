@@ -1,0 +1,161 @@
+tweet_id,text,label
+T001,@datascience The preprocessing steps do not make sense to me https://example.org,0
+T002,@mlclass GREAT EXPLANATION OF LOGISTIC REGRESSION,1
+T003,@mlclass This model performs very poorly #ML,0
+T004,@NLPgroup This is a great introduction to text classification!,1
+T005,@NLPgroup This course is confusing and frustrating!,0
+T006,@mlclass I really liked the feature extraction example,1
+T007,@datascience This is a poor introduction to text classification :),0
+T008,@datascience Great explanation of logistic regression!,1
+T009,@mlclass This model performs very poorly https://example.org,0
+T010,@mlclass This is a great introduction to text classification!!,1
+T011,@datascience The examples are confusing and unhelpful :),0
+T012,@datascience This is a great introduction to text classification :(,1
+T013,@student The practical exercise was frustrating!,0
+T014,@datascience The examples are clear and helpful!,1
+T015,@student I am worried about learning NLP https://example.org,0
+T016,@NLPgroup I am happy because I am learning NLP #ML,1
+T017,@datascience THIS IS A POOR INTRODUCTION TO TEXT CLASSIFICATION https://example.org,0
+T018,The assignment was challenging but rewarding!!,1
+T019,@datascience I dislike this machine learning lecture,0
+T020,@NLPgroup I am happy because I am learning NLP,1
+T021,@NLPgroup I feel lost about this topic :),0
+T022,I am excited to learn more about NLP :),1
+T023,The explanation of logistic regression was unclear!!,0
+T024,@student I love this machine learning lecture #ML,1
+T025,@datascience The lecture today was disappointing #ML,0
+T026,@student The preprocessing steps make sense to me #ML,1
+T027,@student The practical exercise was frustrating #NLP,0
+T028,@mlclass I am excited to learn more about NLP!!,1
+T029,@student I dislike this machine learning lecture :),0
+T030,@student Great explanation of logistic regression :),1
+T031,@NLPgroup I dislike this machine learning lecture!!,0
+T032,@datascience I love this machine learning lecture #ML,1
+T033,@NLPgroup The examples are confusing and unhelpful :),0
+T034,The lecture today was excellent!!,1
+T035,@NLPgroup This model performs very poorly #ML,0
+T036,@NLPgroup This is a great introduction to text classification!!,1
+T037,@datascience The examples are confusing and unhelpful!!,0
+T038,@student I REALLY LIKED THE FEATURE EXTRACTION EXAMPLE #ML,1
+T039,@NLPgroup The practical exercise was frustrating,0
+T040,@mlclass Great explanation of logistic regression!!,1
+T041,@student I am sad because I am not learning NLP well https://example.org,0
+T042,@mlclass I feel confident about this topic,1
+T043,@student The explanation of logistic regression was unclear #NLP,0
+T044,@student I love this machine learning lecture #NLP,1
+T045,@datascience The examples are confusing and unhelpful #NLP,0
+T046,@NLPgroup I ENJOYED WORKING ON THE SENTIMENT ANALYSIS TASK #NLP,1
+T047,@datascience This course is confusing and frustrating :(,0
+T048,@student I LOVE THIS MACHINE LEARNING LECTURE :),1
+T049,@student THE EXPLANATION OF LOGISTIC REGRESSION WAS UNCLEAR https://example.org,0
+T050,@datascience This model works very well https://example.org,1
+T051,@datascience I FEEL LOST ABOUT THIS TOPIC :(,0
+T052,@student The lecture today was excellent :(,1
+T053,@student I DID NOT LIKE THE FEATURE EXTRACTION EXAMPLE!,0
+T054,@mlclass I am excited to learn more about nlp :),1
+T055,@NLPgroup I AM SAD BECAUSE I AM NOT LEARNING NLP WELL!!,0
+T056,@datascience The preprocessing steps make sense to me!!,1
+T057,@student I dislike this machine learning lecture!!,0
+T058,@mlclass The practical exercise was very helpful #NLP,1
+T059,@datascience I AM WORRIED ABOUT LEARNING NLP!!,0
+T060,@NLPgroup The preprocessing steps make sense to me #NLP,1
+T061,@student The lecture today was disappointing!,0
+T062,I love this machine learning lecture,1
+T063,The practical exercise was frustrating :(,0
+T064,@student The preprocessing steps make sense to me :(,1
+T065,@NLPgroup The practical exercise was frustrating!,0
+T066,@student The assignment was challenging but rewarding https://example.org,1
+T067,@NLPgroup I dislike this machine learning lecture :),0
+T068,@mlclass The lecture today was excellent https://example.org,1
+T069,@mlclass THIS IS A POOR INTRODUCTION TO TEXT CLASSIFICATION https://example.org,0
+T070,@datascience I really liked the feature extraction example :),1
+T071,@datascience I did not enjoy the sentiment analysis task #ML,0
+T072,@mlclass I am happy because I am learning NLP!!,1
+T073,@student I am sad because i am not learning nlp well :(,0
+T074,The lecture today was excellent :(,1
+T075,@student This course is confusing and frustrating!,0
+T076,@datascience Great explanation of logistic regression #NLP,1
+T077,@NLPgroup I AM WORRIED ABOUT LEARNING NLP https://example.org,0
+T078,@datascience The assignment was challenging but rewarding,1
+T079,@datascience I AM WORRIED ABOUT LEARNING NLP :(,0
+T080,@NLPgroup Great explanation of logistic regression!!,1
+T081,@datascience THIS COURSE IS CONFUSING AND FRUSTRATING #ML,0
+T082,@student This is a great introduction to text classification :),1
+T083,This course is confusing and frustrating https://example.org,0
+T084,@mlclass The lecture today was excellent :(,1
+T085,I feel lost about this topic!!,0
+T086,@mlclass I really liked the feature extraction example :(,1
+T087,The preprocessing steps do not make sense to me #ML,0
+T088,@NLPgroup THE PREPROCESSING STEPS MAKE SENSE TO ME :),1
+T089,I am sad because i am not learning nlp well,0
+T090,@mlclass The examples are clear and helpful https://example.org,1
+T091,@NLPgroup THE EXPLANATION OF LOGISTIC REGRESSION WAS UNCLEAR https://example.org,0
+T092,@mlclass Great explanation of logistic regression :(,1
+T093,I did not like the feature extraction example!!,0
+T094,@NLPgroup This is a great introduction to text classification,1
+T095,@mlclass I am worried about learning nlp!!,0
+T096,@student I really liked the feature extraction example,1
+T097,@NLPgroup I FEEL LOST ABOUT THIS TOPIC!,0
+T098,I am excited to learn more about NLP!!,1
+T099,@mlclass The examples are confusing and unhelpful https://example.org,0
+T100,@student I REALLY LIKED THE FEATURE EXTRACTION EXAMPLE!!,1
+T101,@datascience THIS COURSE IS CONFUSING AND FRUSTRATING,0
+T102,@NLPgroup THIS IS A GREAT INTRODUCTION TO TEXT CLASSIFICATION!!,1
+T103,@mlclass I dislike this machine learning lecture #NLP,0
+T104,@mlclass The preprocessing steps make sense to me #ML,1
+T105,@student This model performs very poorly!,0
+T106,@datascience This course is really useful and interesting!,1
+T107,@NLPgroup The lecture today was disappointing https://example.org,0
+T108,@NLPgroup The preprocessing steps make sense to me #ML,1
+T109,@datascience I feel lost about this topic #ML,0
+T110,@mlclass This model works very well,1
+T111,@student THIS MODEL PERFORMS VERY POORLY https://example.org,0
+T112,I feel confident about this topic #ML,1
+T113,@student I did not like the feature extraction example #NLP,0
+T114,This is a great introduction to text classification!!,1
+T115,The lecture today was disappointing #NLP,0
+T116,@NLPgroup The preprocessing steps make sense to me #ML,1
+T117,@NLPgroup THE PREPROCESSING STEPS DO NOT MAKE SENSE TO ME :),0
+T118,@mlclass This model works very well #ML,1
+T119,I am sad because i am not learning nlp well!,0
+T120,@datascience I am happy because I am learning NLP :(,1
+T121,@student The explanation of logistic regression was unclear,0
+T122,@student Great explanation of logistic regression https://example.org,1
+T123,@datascience THE PREPROCESSING STEPS DO NOT MAKE SENSE TO ME,0
+T124,@mlclass Great explanation of logistic regression :(,1
+T125,@datascience I did not enjoy the sentiment analysis task #ML,0
+T126,@NLPgroup I am excited to learn more about NLP https://example.org,1
+T127,@NLPgroup The practical exercise was frustrating https://example.org,0
+T128,@student This course is really useful and interesting https://example.org,1
+T129,@mlclass The assignment was difficult and discouraging :),0
+T130,I am happy because I am learning NLP!,1
+T131,@student The assignment was difficult and discouraging :),0
+T132,@mlclass I really liked the feature extraction example #ML,1
+T133,@NLPgroup The examples are confusing and unhelpful!!,0
+T134,@mlclass THE PRACTICAL EXERCISE WAS VERY HELPFUL!!,1
+T135,This model performs very poorly #ML,0
+T136,@datascience This model works very well!!,1
+T137,@datascience I feel lost about this topic!!,0
+T138,@mlclass The examples are clear and helpful #ML,1
+T139,@NLPgroup The assignment was difficult and discouraging :(,0
+T140,@NLPgroup I LOVE THIS MACHINE LEARNING LECTURE!!,1
+T141,@NLPgroup I DISLIKE THIS MACHINE LEARNING LECTURE #NLP,0
+T142,@mlclass I really liked the feature extraction example :),1
+T143,@NLPgroup The examples are confusing and unhelpful!,0
+T144,@datascience I really liked the feature extraction example #ML,1
+T145,@mlclass The practical exercise was frustrating!!,0
+T146,@mlclass The assignment was challenging but rewarding #ML,1
+T147,@datascience I did not like the feature extraction example!!,0
+T148,@mlclass I enjoyed working on the sentiment analysis task #NLP,1
+T149,@mlclass I DID NOT ENJOY THE SENTIMENT ANALYSIS TASK #ML,0
+T150,@student The practical exercise was very helpful!,1
+T151,@datascience The examples are confusing and unhelpful https://example.org,0
+T152,@mlclass I enjoyed working on the sentiment analysis task #NLP,1
+T153,@student The practical exercise was frustrating #ML,0
+T154,@NLPgroup I AM HAPPY BECAUSE I AM LEARNING NLP,1
+T155,@datascience I AM SAD BECAUSE I AM NOT LEARNING NLP WELL #NLP,0
+T156,@mlclass I enjoyed working on the sentiment analysis task https://example.org,1
+T157,@mlclass The explanation of logistic regression was unclear!,0
+T158,@student The lecture today was excellent,1
+T159,@datascience The practical exercise was frustrating,0
+T160,@student THE EXAMPLES ARE CLEAR AND HELPFUL!!,1
