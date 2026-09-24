@@ -1,0 +1,129 @@
+id,text,label
+1,"What a fantastic movie, I would recommend it.",1
+2,I am very disappointed with this course.,0
+3,"What a excellent game, I would recommend it.",1
+4,The movie did not work well and I am dissatisfied.,0
+5,"What a amazing course, I would recommend it.",1
+6,"I really disliked this game, it was horrible.",0
+7,The course worked well and I am satisfied.,1
+8,This movie is absolutely poor.,0
+9,The book worked well and I am satisfied.,1
+10,The course was unpleasant and made me unhappy.,0
+11,"What a helpful service, I would recommend it.",1
+12,"What a unpleasant book, I would not recommend it.",0
+13,This movie is absolutely good.,1
+14,"What a awful app, I would not recommend it.",0
+15,This delivery is absolutely pleasant.,1
+16,I am very disappointed with this service.,0
+17,I am very pleased with this restaurant.,1
+18,I am very disappointed with this service.,0
+19,This hotel is absolutely pleasant.,1
+20,The book was unpleasant and made me unhappy.,0
+21,I am very pleased with this restaurant.,1
+22,The game was horrible and made me unhappy.,0
+23,The hotel was helpful and made me happy.,1
+24,This game is absolutely horrible.,0
+25,I loved the movie; the experience was amazing.,1
+26,"I really disliked this book, it was bad.",0
+27,This service is absolutely amazing.,1
+28,I hated the course; the experience was frustrating.,0
+29,The hotel worked well and I am satisfied.,1
+30,This product is absolutely horrible.,0
+31,This delivery is absolutely helpful.,1
+32,The book did not work well and I am dissatisfied.,0
+33,The game was good and made me happy.,1
+34,"What a awful movie, I would not recommend it.",0
+35,The product was helpful and made me happy.,1
+36,"What a bad app, I would not recommend it.",0
+37,Such a fantastic experience with this game.,1
+38,"I really disliked this service, it was disappointing.",0
+39,I loved the service; the experience was fantastic.,1
+40,The product did not work well and I am dissatisfied.,0
+41,"I really enjoyed this restaurant, it was wonderful.",1
+42,"What a horrible restaurant, I would not recommend it.",0
+43,The book was wonderful and made me happy.,1
+44,"I really disliked this delivery, it was unpleasant.",0
+45,Such a excellent experience with this movie.,1
+46,I hated the restaurant; the experience was horrible.,0
+47,"I really enjoyed this course, it was excellent.",1
+48,"What a awful hotel, I would not recommend it.",0
+49,The product was good and made me happy.,1
+50,The restaurant was bad and made me unhappy.,0
+51,I am very pleased with this game.,1
+52,This app is absolutely unpleasant.,0
+53,Such a good experience with this game.,1
+54,"What a horrible course, I would not recommend it.",0
+55,"What a great book, I would recommend it.",1
+56,I am very disappointed with this delivery.,0
+57,"I really enjoyed this service, it was great.",1
+58,I am very disappointed with this service.,0
+59,I loved the service; the experience was amazing.,1
+60,This hotel is absolutely horrible.,0
+61,The delivery was good and made me happy.,1
+62,I am very disappointed with this hotel.,0
+63,I am very pleased with this service.,1
+64,The book did not work well and I am dissatisfied.,0
+65,The hotel worked well and I am satisfied.,1
+66,"What a bad movie, I would not recommend it.",0
+67,I loved the service; the experience was amazing.,1
+68,I am very disappointed with this course.,0
+69,The app was wonderful and made me happy.,1
+70,This hotel is absolutely horrible.,0
+71,"What a excellent hotel, I would recommend it.",1
+72,"I really disliked this game, it was terrible.",0
+73,"What a wonderful course, I would recommend it.",1
+74,The hotel did not work well and I am dissatisfied.,0
+75,I am very pleased with this app.,1
+76,The app was terrible and made me unhappy.,0
+77,The restaurant worked well and I am satisfied.,1
+78,This app is absolutely frustrating.,0
+79,The course was fantastic and made me happy.,1
+80,I am very disappointed with this movie.,0
+81,I loved the movie; the experience was great.,1
+82,Such a poor experience with this game.,0
+83,"I really enjoyed this game, it was excellent.",1
+84,The service was awful and made me unhappy.,0
+85,I am very pleased with this app.,1
+86,I am very disappointed with this delivery.,0
+87,"What a pleasant app, I would recommend it.",1
+88,This course is absolutely unpleasant.,0
+89,I am very pleased with this restaurant.,1
+90,The restaurant was frustrating and made me unhappy.,0
+91,I loved the service; the experience was great.,1
+92,Such a awful experience with this delivery.,0
+93,"What a amazing game, I would recommend it.",1
+94,This product is absolutely unpleasant.,0
+95,"What a pleasant course, I would recommend it.",1
+96,This product is absolutely frustrating.,0
+97,This delivery is absolutely great.,1
+98,This service is absolutely poor.,0
+99,This service is absolutely excellent.,1
+100,The restaurant was disappointing and made me unhappy.,0
+101,I am very pleased with this book.,1
+102,This game is absolutely frustrating.,0
+103,This movie is absolutely excellent.,1
+104,The restaurant did not work well and I am dissatisfied.,0
+105,"I really enjoyed this book, it was wonderful.",1
+106,This product is absolutely frustrating.,0
+107,The game worked well and I am satisfied.,1
+108,"What a poor service, I would not recommend it.",0
+109,"I really enjoyed this book, it was wonderful.",1
+110,The product did not work well and I am dissatisfied.,0
+111,This book is absolutely great.,1
+112,I hated the course; the experience was horrible.,0
+113,"What a helpful book, I would recommend it.",1
+114,The course was poor and made me unhappy.,0
+115,The app was great and made me happy.,1
+116,The book was bad and made me unhappy.,0
+117,I am very pleased with this restaurant.,1
+118,"What a terrible app, I would not recommend it.",0
+119,Such a amazing experience with this course.,1
+120,Such a disappointing experience with this book.,0
+121,I am happy because I am learning NLP.,1
+122,"I am happy, not sad.",1
+123,"I am sad, I am not learning NLP.",0
+124,"I am sad, not happy.",0
+125,"This is not good, because your attitude is not even close to being nice.",0
+126,The movie was not bad at all; I actually enjoyed it.,1
+127,"Great, another app crash. Exactly what I needed!",0
+128,The plot was gripping and I cried right through the ending!,1
